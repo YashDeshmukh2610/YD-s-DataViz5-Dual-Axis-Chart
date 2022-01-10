@@ -25,7 +25,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='P1-AmazingMartEU2' name='excel-direct.1xl3fui1kg0gc01bp6z6z1p3gwke'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/YASH DESHMUKH/OneDrive/Desktop/Tableau/Sec5/P1-AmazingMartEU2.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/YASH DESHMUKH/OneDrive/Desktop/Tableau/DataViz5/Dataset/Dataset-P1-AmazingMartEU2.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation join='inner' type='join'>
@@ -516,7 +516,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='P1-AmazingMartEU2' name='excel-direct.1fosnhj1qliqq71dyqofl1pp8bwt'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/YASH DESHMUKH/OneDrive/Desktop/Tableau/Sec5/P1-AmazingMartEU2.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/YASH DESHMUKH/OneDrive/Desktop/Tableau/DataViz5/Dataset/Dataset-P1-AmazingMartEU2.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.1fosnhj1qliqq71dyqofl1pp8bwt' name='SalesTargets' table='[SalesTargets$]' type='table'>
